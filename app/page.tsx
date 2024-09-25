@@ -21,7 +21,7 @@ export default function Home() {
       </div>
       <div className="w-0 sm:w-2/5 h-full relative"></div>
       
-      <div className="sm:w-3/5 w-full px-20 text-balance font-medium">
+      <div className="sm:w-3/5 w-full sm:px-20 p-5 text-balance font-medium">
         <strong><h1 className="pt-80 text-5xl bg-gradient-to-r from-purple-700 to-purple-400 text-transparent bg-clip-text" id="landing">Francisco Lomo</h1></strong>
         <p className="font-semibol mt-5 pb-64">Soy un estudiante de <a className="text-purple-400">Ingeniería Informática</a>, especializado en el <a className="text-purple-400">Desarrollo de Software</a>. Mis intereses principales son el desarrollo de <a className="text-purple-400">aplicaciones de escritorio</a>, el diseño y desarollo de <a className="text-purple-400">aplicaciones web</a> (frontend y backend) y la <a className="text-purple-400">ciberseguridad</a>.</p>
         <strong><h1 className="pt-80 text-5xl bg-gradient-to-r from-purple-700 to-purple-400 text-transparent bg-clip-text" id="about">About</h1></strong>
