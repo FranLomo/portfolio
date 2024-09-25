@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Montserrat } from "next/font/google";
 import "./globals.css";
+import MenuBar from "@/components/MenuBar";
 
 const fuente = Montserrat({ subsets: ["latin"] });
 
@@ -16,7 +17,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
-      <body className={fuente.className}>{children}</body>
+      <body className={fuente.className}> 
+          {children}
+      </body>
     </html>
   );
 }
