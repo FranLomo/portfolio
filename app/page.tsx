@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex h-100%">
       <MenuBar></MenuBar>
-      <div className="w-0 h-full sm:w-2/5 sm:h-0 fixed overflow-hidden">
+      <div className="w-0 h-0 sm:w-2/5 sm:h-full fixed overflow-hidden">
         <Image
           src="/portfolio/images/yo.jpg"
           layout="fill"
