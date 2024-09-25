@@ -44,7 +44,7 @@ export default function Home() {
           <a className="ml-3 mt-0.5 text-lg">franciscolomo140103@gmail.com</a>
         </div>
         <div className="flex mt-5 pb-96">
-          <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+          <svg className="relative" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
             width="30" height="30" viewBox="0 0 192 192">
             {
             <g fill="none" fill-rule="nonzero" stroke="none" strokeWidth="1" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="10" strokeDasharray="" strokeDashoffset="0" fontFamily="none" fontWeight="none" fontSize="none" textAnchor="none">
