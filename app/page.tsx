@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex h-100%">
       <MenuBar></MenuBar>
-      <div className="w-2/5 h-full fixed overflow-hidden">
+      <div className="w-2/5 h-full sm:w-0 sm:h-0 fixed overflow-hidden">
         <Image
           src="/portfolio/images/yo.jpg"
           layout="fill"
@@ -19,7 +19,7 @@ export default function Home() {
           }}
         />
       </div>
-      <div className="w-2/5 h-full relative"></div>
+      <div className="w-2/5 sm:w-0 h-full relative"></div>
       
       <div className="w-3/5 px-20 text-balance font-medium">
         <strong><h1 className="pt-80 text-5xl bg-gradient-to-r from-purple-700 to-purple-400 text-transparent bg-clip-text" id="landing">Francisco Lomo</h1></strong>
