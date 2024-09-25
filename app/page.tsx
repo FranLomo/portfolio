@@ -22,11 +22,11 @@ export default function Home() {
       <div className="w-2/5 h-full relative"></div>
       
       <div className="w-3/5 px-20 text-balance font-medium">
-        <strong><h1 className="pt-72 text-5xl bg-gradient-to-r from-purple-700 to-purple-400 text-transparent bg-clip-text" id="landing">Francisco Lomo</h1></strong>
+        <strong><h1 className="pt-80 text-5xl bg-gradient-to-r from-purple-700 to-purple-400 text-transparent bg-clip-text" id="landing">Francisco Lomo</h1></strong>
         <p className="font-semibol mt-5 pb-64">Soy un estudiante de <a className="text-purple-400">Ingeniería Informática</a>, especializado en el <a className="text-purple-400">Desarrollo de Software</a>. Mis intereses principales son el desarrollo de <a className="text-purple-400">aplicaciones de escritorio</a>, el diseño y desarollo de <a className="text-purple-400">aplicaciones web</a> (frontend y backend) y la <a className="text-purple-400">ciberseguridad</a>.</p>
-        <strong><h1 className="pt-72 text-5xl bg-gradient-to-r from-purple-700 to-purple-400 text-transparent bg-clip-text" id="about">About</h1></strong>
+        <strong><h1 className="pt-80 text-5xl bg-gradient-to-r from-purple-700 to-purple-400 text-transparent bg-clip-text" id="about">About</h1></strong>
         <p className="font-semibol mt-5 pb-64">Nací en <a className="text-purple-400">Extremadura</a> pero actualmente resido en <a className="text-purple-400">Valladolid</a>. Desde pequeño me ha picado el <a className="text-purple-400">hambre de aprender</a> y empecé pronto con el mundo de la <a className="text-purple-400">Tecnología</a> y la <a className="text-purple-400">Informática</a> con un antigüo ordenador de mi padre. Soy bueno trabajando en  <a className="text-purple-400">equipo</a> pero también considero que tengo capacidades útiles de <a className="text-purple-400">organización, dirección y liderazgo.</a></p>
-        <strong><h1 className="pt-72 text-5xl bg-gradient-to-r from-purple-700 to-purple-400 text-transparent bg-clip-text" id="skills">Skills</h1></strong>
+        <strong><h1 className="pt-80 text-5xl bg-gradient-to-r from-purple-700 to-purple-400 text-transparent bg-clip-text" id="skills">Skills</h1></strong>
         <div className="font-semibold mt-5 pb-48">
           <ul className="list-disc list-inside space-y-3">
             <li>Manejo fluido de lenguajes estándar como Java, C, Python, HTML, CSS...</li>
