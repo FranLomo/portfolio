@@ -7,7 +7,7 @@ export default function Home() {
       <MenuBar></MenuBar>
       <div className="w-2/5 h-full fixed overflow-hidden">
         <Image
-          src="/images/yo.jpg"
+          src="/portfolio/images/yo.jpg"
           layout="fill"
           objectFit="cover"
           alt=""
